@@ -38,6 +38,7 @@ module.exports = {
     'jsx-a11y/control-has-associated-label': 'off',
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
-    'react/jsx-props-no-spreading': ['off']
+    'react/jsx-props-no-spreading': ['off'],
+    'no-underscore-dangle': ['off']
   }
 };
